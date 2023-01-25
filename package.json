@@ -45,12 +45,13 @@
     }
   },
   "cds": {
+    "hana": {
+      "deploy-format": "hdbtable",
+      "syntax": "hdi"
+    },
     "requires": {
       "db": {
-        "kind": "sqlite",
-        "credentials": {
-          "database": "db.sqlite"
-        }
+        "kind": "hana"
       }
     }
   }

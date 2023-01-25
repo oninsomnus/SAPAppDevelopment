@@ -11,7 +11,7 @@ entity Products {
         availability     : Integer;
         storage_capacity : Integer;
         criticality      : Integer;
-        price            : Integer;
+        price            : Double;
         currency         : Currency;
         supplier         : Association to Suppliers;
         image_url        : String;
