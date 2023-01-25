@@ -2,4 +2,4 @@
 
 Develop Applications Running on SAP BTP Using SAP HANA Cloud
 
-SAP HANA + SAP Cloud Application Programming Model
+SAP HANA Cloud + SAP Cloud Application Programming Model (CAP)
